@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22951-api-
 x-kinRank: "8"
 x-alexaRank: "317564"
 tags: API Docs
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/api-docs/master/_listings/api-docs/apis.md
 specificationVersion: "0.14"
 apis: []
